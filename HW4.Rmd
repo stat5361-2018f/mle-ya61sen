@@ -12,7 +12,7 @@ biblio-style: asa
 output:
   bookdown::pdf_document2
 abstract: |
-    This homework is made of Excercise 3.3.2 - Many local maxima and Excercise 3.3.3 - Modeling beetle data.
+    This homework consists of 2 questions, Excercise 3.3.2 - Many local maxima and Excercise 3.3.3 - Modeling beetle data.
 ---
 
 
